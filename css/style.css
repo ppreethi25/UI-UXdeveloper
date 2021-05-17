@@ -80,7 +80,7 @@ button:focus {
   padding-right: 0px; }
 
   .p_120 {
-    background-image: url('./img/images.jpg');
+    background-color: #f4c3d9;;
     background-repeat: no-repeat;
     object-fit: cover;
     background-size: cover;
